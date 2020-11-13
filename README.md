@@ -1,2 +1,3 @@
 # Eclipse
-IntegraÃ§Ã£o Eclipse ao Git
+Integração Eclipse ao Git
+Modificando no Eclipse
